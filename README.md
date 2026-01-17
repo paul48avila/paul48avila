@@ -1,40 +1,186 @@
-# Hi there, I'm Paul Ávila 👋 
-**Software Systems Engineer | Fullstack Developer**
+# 👋 Hi, I'm **Paul Ávila Rodríguez**
 
-[cite_start]He enfocado mi carrera en el desarrollo de software robusto, con especialidad en el ecosistema **Python**, automatización de procesos y arquitecturas modernas Fullstack[cite: 4, 5, 57]. [cite_start]Mi enfoque combina la eficiencia técnica con la resolución de problemas del mundo real[cite: 4, 6].
-
----
-
-### 🛠️ My Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Cloud & DB** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
+🚀 **Systems Engineer | Full Stack Developer | Backend & AI Automation Enthusiast**
+📍 Open to Remote & On-site Opportunities | 💼 Actively Seeking Professional Growth
 
 ---
 
-### 🚀 Key Projects
+## 🧑‍💻 Professional Summary
 
-* [cite_start]**[Randomized Exam Generator](https://github.com/paul48avila)**: Aplicación multiplataforma (.exe/.app) desarrollada con Python y Tkinter para la Facultad de Medicina de la UCR[cite: 11, 13].
-* [cite_start]**[Object Detection & Vertex Cover](https://github.com/paul48avila)**: Implementación de YOLOv3 con optimización mediante Teoría de Grafos para reducir solapamiento de detecciones[cite: 43, 45].
-* [cite_start]**[Automated Video Pipeline](https://github.com/paul48avila)**: Sistema autónomo de creación de contenido integrando Reddit API, MoviePy y automatización de GUI con PyAutoGUI[cite: 39, 41].
-* [cite_start]**[STRIX University System](https://github.com/paul48avila)**: Plataforma de gestión académica y pasantías utilizando SvelteKit y Supabase[cite: 49].
+Systems Engineer with hands-on experience in **Full Stack Web Development**, **Backend Systems**, and **Process Automation using Artificial Intelligence**. Proven ability to design, develop, and optimize scalable applications using modern technologies. Strong analytical skills, experience in academic and real-world projects, and a solid foundation in algorithms, databases, and system analysis.
 
----
-
-### 📜 Certifications
-
-* [cite_start]**CCNAv7**: Introduction to Networks & Switching, Routing, and Wireless Essentials[cite: 31, 32].
-* [cite_start]**Cybersecurity**: Cybersecurity Essentials (Cisco) & SME Cybersecurity Certification (ESET)[cite: 33, 37].
-* [cite_start]**Data**: Data Warehousing Workshop (Snowflake)[cite: 37].
-* [cite_start]**Testing**: Cypress with TypeScript (TestAutomationU)[cite: 37].
+Highly motivated, fast learner, and capable of translating complex requirements into efficient technical solutions.
 
 ---
 
-### 📫 Connect with me:
+## 🛠️ Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paul.avila200048@gmail.com)
+### Programming Languages
+
+* **Python** (Automation, AI, Data Processing)
+* **JavaScript (ES6+)**
+* **TypeScript**
+* **C# (.NET)**
+* **Java** (Android)
+* **SQL**
+
+### Frontend Development
+
+* React
+* HTML5, CSS3
+* Responsive Design
+
+### Backend Development
+
+* Node.js
+* Express.js
+* RESTful APIs
+* Prisma ORM
+
+### Databases
+
+* PostgreSQL
+* SQL Server
+
+### AI, Automation & Algorithms
+
+* Object Detection with Python
+* Image & Video Processing
+* Algorithm Optimization (Vertex Cover)
+* Automation Scripts & Bots
+
+### Tools & Platforms
+
+* Git & GitHub
+* Postman
+* Visual Studio / VS Code
+* Android Studio
+* Mendeley
+* Docker (Basic)
+
+---
+
+## 📌 Featured Projects (Recruiter-Oriented)
+
+### 🎓 Student Enrollment Management System
+
+**Description:** Desktop application for managing student enrollment, academic records, and administrative workflows.
+
+* Modular system design
+* Database-driven architecture
+
+**Tech Stack:** C#, SQL Server
+
+---
+
+### 🤖 Social Media Video Automation System
+
+**Description:** End-to-end automation system that:
+
+* Extracts content from Reddit
+* Converts text to speech
+* Generates videos with dynamic backgrounds
+* Publishes content to TikTok & Instagram
+
+**Tech Stack:** Python, APIs, Automation, Video Processing
+
+---
+
+### 🛒 E-commerce Shoe Store (Full Stack)
+
+**Description:** Full stack web application with product management and database integration.
+
+* REST API
+* PostgreSQL integration
+* Endpoint testing with Postman
+
+**Tech Stack:** React, Node.js, Express, PostgreSQL
+
+---
+
+### 🏛️ Government API Backend Integration
+
+**Description:** Backend services for consuming and processing data from a government tax authority API.
+
+**Tech Stack:** Node.js, Express, REST APIs
+
+---
+
+### 📱 Android Promotions App
+
+**Description:** Mobile application for managing promotional pricing logic and dynamic UI interactions.
+
+**Tech Stack:** Android Studio, Java
+
+---
+
+### 🧠 AI Research – Image Recognition Optimization
+
+**Description:** Research-focused project applying **Vertex Cover approximation algorithms** to optimize object detection pipelines.
+
+**Tech Stack:** Python, Algorithms, AI
+
+---
+
+## 🧪 Example Repositories (Recommended Structure)
+
+📁 **fullstack-ecommerce-demo**
+
+* React frontend + Express backend
+* Auth-ready structure
+* Clean commits & README
+
+📁 **python-automation-ai**
+
+* Automation scripts
+* Video & image processing
+* Clear documentation
+
+📁 **backend-api-template**
+
+* REST API best practices
+* Prisma + PostgreSQL
+* Environment-based config
+
+📁 **algorithms-optimization**
+
+* Vertex Cover implementations
+* Academic-style documentation
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=radical)
+
+---
+
+## 🎓 Education & Certifications
+
+* **B.Sc. in Systems Engineering**
+* Continuous learning in:
+
+  * Full Stack Development
+  * Backend Architecture
+  * Artificial Intelligence
+  * Operations Research
+
+---
+
+## 🔗 Professional Links
+
+* 💼 LinkedIn: *(add your LinkedIn URL)*
+* 📧 Email: *(professional email)*
+* 🌐 Portfolio: *(optional)*
+
+---
+
+## ✨ Professional Statement
+
+> *"I build scalable systems and intelligent solutions that solve real-world problems."*
+
+---
+
+⭐ Open to collaboration, internships, and full-time opportunities.

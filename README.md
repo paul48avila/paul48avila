@@ -60,7 +60,7 @@ Highly motivated, fast learner, and capable of translating complex requirements 
 
 ---
 
-## 📌 Featured Projects (Recruiter-Oriented)
+## 📌 Featured Projects 
 
 ### 🎓 Student Enrollment Management System
 
@@ -122,7 +122,7 @@ Highly motivated, fast learner, and capable of translating complex requirements 
 
 ---
 
-## 🧪 Example Repositories (Recommended Structure)
+## 🧪 Example Repositories 
 
 📁 **fullstack-ecommerce-demo**
 
@@ -149,13 +149,6 @@ Highly motivated, fast learner, and capable of translating complex requirements 
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=radical)
-
----
 
 ## 🎓 Education & Certifications
 
